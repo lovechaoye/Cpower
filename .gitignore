@@ -1,3 +1,2 @@
- *.o
-/chapter*/*.o
-/chapter*/*.swp
+/chapter*/:
+!*.[isc]
