@@ -1,2 +1,3 @@
-! *.c
-! *.s
+ *.o
+/chapter*/*.o
+/chapter*/*.swp
