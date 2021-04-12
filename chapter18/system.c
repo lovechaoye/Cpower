@@ -3,7 +3,7 @@
 
 int main(void)
 {
-	int ret = system("date +%s");
+	int ret = system("type cd");
 	if(ret != 0){
 		perror("system");
 		exit(EXIT_FAILURE);
